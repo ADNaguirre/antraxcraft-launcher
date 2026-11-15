@@ -1,12 +1,12 @@
 {
   "items": [
     {
-      "id": "2026-12-01-evento-fin-de-ano",
+      "id": "2026-11-15-temporada-1-calendario",
       "date": "2026-12-01",
-      "title": "Evento de fin de año",
-      "body": "Prepárense para el evento especial de diciembre.\nHabrá recompensas exclusivas.",
+      "title": "¡Llega la Temporada 1!",
+      "body": "Presentamos el calendario de nuestra primera temporada, del 1 de diciembre de 2026 al 15 de enero de 2027.\n\nEntre los mejores premios: peluches únicos, perfectos para empezar tu colección. ¡No te lo pierdas!",
       "images": [
-        "https://raw.githubusercontent.com/ADNaguirre/antraxcraft-launcher/main/news-images/evento.png"
+          "https://raw.githubusercontent.com/ADNaguirre/antraxcraft-launcher/refs/heads/news-images/Peluches_de_temporada_1.png"
       ]
     }
   ]
