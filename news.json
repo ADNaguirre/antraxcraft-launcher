@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "id": "2026-12-01-evento-fin-de-ano",
+      "date": "2026-12-01",
+      "title": "Evento de fin de año",
+      "body": "Prepárense para el evento especial de diciembre.\nHabrá recompensas exclusivas.",
+      "images": [
+        "https://raw.githubusercontent.com/ADNaguirre/antraxcraft-launcher/main/news-images/evento.png"
+      ]
+    }
+  ]
+}
